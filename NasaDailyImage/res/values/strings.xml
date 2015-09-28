@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NasaDailyImage</string>
+    <string name="menu_settings">Settings</string>
+    <string name="test_image_title">Bridging Cities of Galaxies</string>
+    <string name="test_image_date">Wed, 21 Nov 2012 00:00:00 EST</string>
+    <string name="test_image_description">Planck has discovered a bridge of hot gas that 
+        connects galaxy clusters Abell 399 (lower center) and Abell 401 (top left). 
+        The galaxy pair is located about a billion light-years from Earth, 
+        and the gas bridge extends approximately 10 million light-years between them. 
+        The image shows the two galaxy clusters as seen at optical wavelengths with 
+        ground-based telescopes and through the Sunyaev-Zel\'dovich effect (in orange) 
+        with the Planck satellite. Image credits: Sunyaev Zel dovich effect: ESA Planck Collaboration; 
+        optical image: STScI Digitized Sky Survey</string>
+    <string name="refresh">Refresh</string>
+    <string name="set_wall_paper">Set WallPaper</string>
+
+</resources>
